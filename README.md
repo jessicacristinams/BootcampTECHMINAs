@@ -1,10 +1,10 @@
-# Bootcamp TECH MINAs - WoMakersCode :_alot_of_work
+# Bootcamp TECH MINAs - WoMakersCode 🙋‍♀️ 📖 🖥️
 
 
-## Upload de arquivos das aulas do bootcamp TECH MINAs
+### Upload de arquivos das aulas do bootcamp TECH MINAs
 
-### Exercícios GitHub
-### Desafio Python
-### Desafio Python Pandas
-### Exercícios Estatística
-### Desafio Estatística
+#### Exercícios GitHub
+#### Desafio Python
+#### Desafio Python Pandas
+#### Exercícios Estatística
+#### Desafio Estatística
